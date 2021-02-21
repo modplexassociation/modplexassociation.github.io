@@ -8,7 +8,7 @@ To keep track of our membership, I am proposing a two part solution:
 
 ## Web of trust
 
-This will follow models proposed by the PGP project [1], and CAcert[2] among others to generate an extending web of mod authors who can self-identify in whatever way they prefer, but with cryptographic strength to the same identity.
+This will follow models proposed by the [PGP project][1], and [CAcert][2] among others to generate an extending web of mod authors who can self-identify in whatever way they prefer, but with cryptographic strength to the same identity.
 
 Introductions to the web-of-trust will come from existing members of the web of trust. We will use a system of vouching for others.
 
@@ -31,5 +31,5 @@ The identity encoded in each member's certificate should be their github identit
 We'll probably need to encode that in the certificate request somehow.
 
 
-[1]: (https://en.wikipedia.org/wiki/Web_of_trust) Web of trust
-[2]: (https://en.wikipedia.org/wiki/CAcert.org) CAcert.org
+[1]: https://en.wikipedia.org/wiki/Web_of_trust "Web of trust"
+[2]: https://en.wikipedia.org/wiki/CAcert.org "CAcert.org"
